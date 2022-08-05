@@ -353,7 +353,7 @@ display: none;
     opacity: 0.6;
 }
 .place-body {
-    padding-left: 16px;
+    /* padding-left: 16px; */
     padding-bottom: 16px;
     background-color: white;
 }
@@ -377,7 +377,7 @@ display: none;
 .place-buy-btn{
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -388,7 +388,7 @@ display: none;
 .place-buy-btn2 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -399,7 +399,7 @@ display: none;
 .place-buy-btn3 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -410,7 +410,7 @@ display: none;
 .place-buy-btn4 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -421,7 +421,7 @@ display: none;
 .place-buy-btn5 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -432,7 +432,7 @@ display: none;
 .place-buy-btn6 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -443,7 +443,7 @@ display: none;
 .place-buy-btn7 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -454,7 +454,7 @@ display: none;
 .place-buy-btn8 {
     display: inline-block;
     margin-top: 8px;
-    padding: 8px 16px;
+    padding: 8px 33.7px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -1839,6 +1839,10 @@ color: white;
     #nav>li:first-child{
         display: inline-block;
     }
+    .container {
+        display: inline-block;
+    }
+
     /* #content .member-item {
         width: 100%;
     } */
