@@ -1862,6 +1862,10 @@ color: white;
         display: block;
         clear: both;
     } */
+	 .place-buy-btn {
+        float: center;
+        /* margin-right: 16px; */
+    }
 }
 /* Resposive ipad */
 @media (min-width:746px){
