@@ -173,7 +173,7 @@ html {scroll-behavior: smooth;
     display: flex;
     
 }
-.s1 {
+/* .s1 {
     background: url('/assets/img/slider/LAPTOP2.png') top center / cover no-repeat;
     }
 .s2 { 
@@ -181,7 +181,7 @@ html {scroll-behavior: smooth;
     }
 .s3 {
     background: url('/assets/img/slider/LAPTOP4.png') top center / cover no-repeat;
-}
+} */
 .slider .text-content{
     display: block;
     color: white;
