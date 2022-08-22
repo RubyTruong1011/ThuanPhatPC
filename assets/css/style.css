@@ -1878,6 +1878,9 @@ color: white;
     .slide-btns {
         margin-top: 6rem;
     }
+	.noi-dung {
+        margin-left: 3rem;
+    }
 }
 /* Resposive ipad */
 @media (min-width:746px){
