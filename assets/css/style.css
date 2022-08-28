@@ -1862,6 +1862,10 @@ color: white;
         display: block;
         clear: both;
     } */
+	.place-heading {
+	font-size: 11px;	
+	}
+	
 	 .place-buy-btn {
         float: center;
 	padding-left: 15px;
@@ -1906,26 +1910,31 @@ color: white;
         float: center;
 	padding-left: 5px;
 	width: 100%;
+	font-size: 11px;
     }
 	.place-buy-btn10 {
         float: center;
 	padding-left: 5px;
 	width: 100%;
+	font-size: 11px;
     }
 	.place-buy-btn11 {
         float: center;
 	padding-left: 5px;
 	width: 100%;
+	font-size: 11px;
     }
 	.place-buy-btn12 {
         float: center;
 	padding-left: 5px;
 	width: 100%;
+	font-size: 11px;
     }
 	.place-buy-btn13 {
         float: center;
 	padding-left: 5px;
 	width: 100%;
+	font-size: 11px;
     }
 	   .slider__container{
         width: 100%;
