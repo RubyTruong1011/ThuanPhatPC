@@ -1864,7 +1864,7 @@ color: white;
     } */
 	 .place-buy-btn {
         float: center;
-        /* margin-right: 16px; */
+	width: 100%;
     }
 	   .slider__container{
         width: 100%;
